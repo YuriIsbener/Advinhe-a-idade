@@ -1,0 +1,13 @@
+C:\Users\yuris\Desktop\Advinhe a idade\bin\Debug\netcoreapp3.1\Advinhe a idade.exe
+C:\Users\yuris\Desktop\Advinhe a idade\bin\Debug\netcoreapp3.1\Advinhe a idade.deps.json
+C:\Users\yuris\Desktop\Advinhe a idade\bin\Debug\netcoreapp3.1\Advinhe a idade.runtimeconfig.json
+C:\Users\yuris\Desktop\Advinhe a idade\bin\Debug\netcoreapp3.1\Advinhe a idade.runtimeconfig.dev.json
+C:\Users\yuris\Desktop\Advinhe a idade\bin\Debug\netcoreapp3.1\Advinhe a idade.dll
+C:\Users\yuris\Desktop\Advinhe a idade\bin\Debug\netcoreapp3.1\Advinhe a idade.pdb
+C:\Users\yuris\Desktop\Advinhe a idade\obj\Debug\netcoreapp3.1\Advinhe a idade.csprojAssemblyReference.cache
+C:\Users\yuris\Desktop\Advinhe a idade\obj\Debug\netcoreapp3.1\Advinhe a idade.AssemblyInfoInputs.cache
+C:\Users\yuris\Desktop\Advinhe a idade\obj\Debug\netcoreapp3.1\Advinhe a idade.AssemblyInfo.cs
+C:\Users\yuris\Desktop\Advinhe a idade\obj\Debug\netcoreapp3.1\Advinhe a idade.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Desktop\Advinhe a idade\obj\Debug\netcoreapp3.1\Advinhe a idade.dll
+C:\Users\yuris\Desktop\Advinhe a idade\obj\Debug\netcoreapp3.1\Advinhe a idade.pdb
+C:\Users\yuris\Desktop\Advinhe a idade\obj\Debug\netcoreapp3.1\Advinhe a idade.genruntimeconfig.cache
